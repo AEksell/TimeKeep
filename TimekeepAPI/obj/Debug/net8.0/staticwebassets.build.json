@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qKcORQ/jqzCbHaK8ecyP1k1XFaltXtMD0By+qwk9VI4=",
+  "Source": "genericBackend",
+  "BasePath": "_content/genericBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
