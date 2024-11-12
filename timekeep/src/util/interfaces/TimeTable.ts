@@ -1,4 +1,4 @@
 export interface TimeTable {
-    id: number;
-    title: string | null;
-  }
+  id: number;
+  title: string | null;
+}

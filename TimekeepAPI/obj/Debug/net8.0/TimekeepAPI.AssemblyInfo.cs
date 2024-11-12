@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimekeepAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43efe4c003b8ecb2aae637594ed29e600afbfed5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e846cd0ecf9428670d0080a22a75e9a43a4d7c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimekeepAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimekeepAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

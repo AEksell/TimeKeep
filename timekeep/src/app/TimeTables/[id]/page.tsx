@@ -1,7 +1,7 @@
-'use client';
-import { useParams } from 'next/navigation';
-import React, { useEffect, useState } from 'react';
-import { TimeTable } from '@/util/interfaces/TimeTable';
+"use client";
+import { useParams } from "next/navigation";
+import React, { useEffect, useState } from "react";
+import { TimeTable } from "@/util/interfaces/TimeTable";
 
 const TimeTablePage = () => {
   const { id } = useParams();
@@ -11,14 +11,14 @@ const TimeTablePage = () => {
     const fetchTimeTable = async () => {
       try {
         const response = await fetch(
-          `http://localhost:5044/api/TimeTables/${id}`
+          `https://localhost:7220/api/TimeTable?id=${id}`
         );
         if (response.ok) {
           const data = await response.json();
           setTimeTable(data);
         }
       } catch (error) {
-        console.error('Error fetching timeTable:', error);
+        console.error("Error fetching timeTable:", error);
       }
     };
 
