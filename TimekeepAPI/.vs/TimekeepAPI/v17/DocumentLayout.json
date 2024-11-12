@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|c:\\repos\\newtimekeep\\timekeep\\timekeepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|c:\\repos\\newtimekeep\\timekeep\\timekeepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|c:\\repos\\newtimekeep\\timekeep\\timekeepapi\\data\\timetabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|solutionrelative:data\\timetabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|c:\\repos\\newtimekeep\\timekeep\\timekeepapi\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|solutionrelative:controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|c:\\repos\\newtimekeep\\timekeep\\timekeepapi\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C59F0AA-26AC-4B5B-8FE0-836CFDAD5FAA}|TimekeepAPI.csproj|solutionrelative:models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T12:35:58.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeTableController.cs",
+              "DocumentMoniker": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Controllers\\TimeTableController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeTableController.cs",
+              "ToolTip": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Controllers\\TimeTableController.cs",
+              "RelativeToolTip": "Controllers\\TimeTableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:44:22.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:42:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeTableDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Data\\TimeTableDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TimeTableDbContext.cs",
+              "ToolTip": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Data\\TimeTableDbContext.cs",
+              "RelativeToolTip": "Data\\TimeTableDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:37:14.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeTable.cs",
+              "DocumentMoniker": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Models\\TimeTable.cs",
+              "RelativeDocumentMoniker": "Models\\TimeTable.cs",
+              "ToolTip": "C:\\Repos\\newTimeKeep\\TimeKeep\\TimekeepAPI\\Models\\TimeTable.cs",
+              "RelativeToolTip": "Models\\TimeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:36:35.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

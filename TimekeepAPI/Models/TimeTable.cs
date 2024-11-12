@@ -1,4 +1,4 @@
-﻿namespace genericBackend.Models
+﻿namespace TimekeepAPI.Models
 {
     public class TimeTable
     {

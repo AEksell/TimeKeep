@@ -1,61 +1,25 @@
 [
   {
-    "ContainingType": "genericBackend.Controllers.TimeTablesController",
-    "Method": "PostTimeTable",
-    "RelativePath": "api/TimeTables",
+    "ContainingType": "TimekeepAPI.Controllers.TimeTableController",
+    "Method": "CreateTable",
+    "RelativePath": "api/TimeTable",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "timeTable",
-        "Type": "genericBackend.Models.TimeTable",
+        "Type": "TimekeepAPI.Models.TimeTable",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "genericBackend.Models.TimeTable",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "genericBackend.Controllers.TimeTablesController",
-    "Method": "GetTimeTable",
-    "RelativePath": "api/TimeTables/{id}",
+    "ContainingType": "TimekeepAPI.Controllers.TimeTableController",
+    "Method": "GetTable",
+    "RelativePath": "api/TimeTable",
     "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[genericBackend.Models.TimeTable, genericBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "genericBackend.Controllers.TimeTablesController",
-    "Method": "DeleteTimeTable",
-    "RelativePath": "api/TimeTables/{id}",
-    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

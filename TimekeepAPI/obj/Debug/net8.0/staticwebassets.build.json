@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "qKcORQ/jqzCbHaK8ecyP1k1XFaltXtMD0By+qwk9VI4=",
-  "Source": "genericBackend",
-  "BasePath": "_content/genericBackend",
+  "Hash": "MaV95D26nqoVr1wSCc/0XrVDBDkFwM0h5LrmH/arroM=",
+  "Source": "TimekeepAPI",
+  "BasePath": "_content/TimekeepAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
